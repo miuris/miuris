@@ -51,5 +51,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=miuris&theme=radical&hide_border=false)<br/>
 ![](username=miuris&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+✨ This profile is a living snapshot of what I’m learning, building, and becoming.
 
 
