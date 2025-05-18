@@ -1,7 +1,7 @@
-## Hello, I’m Miuris! 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F73289&background=90909000&center=true&vCenter=true&width=435&lines=Hello+world+%F0%9F%99%8B%F0%9F%8F%BD%E2%80%8D%E2%99%80%EF%B8%8F+I'm+Miuris!)](https://git.io/typing-svg)
 
-🧠 I'm a software engineer and cybersecurity analyst who’s devoted to building secure, impactful tech and staying endlessly curious while doing it. 
-<br>⭐️This space evolves as I do. Thanks for stopping by 💻🌱⭐️</br>
+🧠 I'm a software engineer and cybersecurity analyst devoted to building secure, impactful tech and staying endlessly curious while doing it. 
+<>⭐️This space evolves as I do. Thanks for stopping by 💻🌱⭐️</>
 
 
 ### 💫 About Me:
