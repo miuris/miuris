@@ -5,19 +5,19 @@ This space evolves as I do. Thanks for stopping by!
 
 ### About Me:
 **BSc in Cybersecurity**, AWS Cloud Practitioner, and backend development  
-🎓 MSc Software Engineering- AI Focus (in progress)  
+MSc Software Engineering- AI Focus (in progress)  
 
 <h>Currently building APIs, automating secure infrastructure, and learning AI</br>
 <h>Fascinated by where human potential and artificial intelligence meet</br>
 <h>Grounded in growth, grit, and gratitude</br>
 
-🎯 2025 Goal: Contribute to open-source projects that make a difference  
+2025 Goal: Contribute to open-source projects that make a difference  
 Hobbies: Lifelong learning · Travel · Sleeping when I can!  
 
 ### 🌐 Connect with me:
 [LinkedIn](https://www.linkedin.com/in/miuris-gutierrez)
 
-### 💻 Tech Stack:
+### Tech Stack:
 **Languages**:  
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white)  
 
