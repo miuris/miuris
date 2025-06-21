@@ -4,8 +4,9 @@ I'm a software engineer and cybersecurity analyst devoted to building secure, im
 This space evolves as I do. Thanks for stopping by! 
 
 ### About Me:
-**BSc in Cybersecurity**, AWS Cloud Practitioner, and backend development  
-MSc Software Engineering- AI Focus (in progress)  
+**BSc in Cybersecurity**, AWS Cloud Practitioner, 
+MSc Information Technology Management 
+Software Engineering Bootcamp
 
 <h>Currently building APIs, automating secure infrastructure, and learning AI</br>
 <h>Fascinated by where human potential and artificial intelligence meet</br>
