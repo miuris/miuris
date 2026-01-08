@@ -5,14 +5,13 @@ This space evolves as I do. Thanks for stopping by!
 
 ### About Me:
 **BSc in Cybersecurity**, AWS Cloud Practitioner</br>
-<h>MSc Information Technology Management</br>
 <h>Software Engineering Bootcamp</br>
 
 <h>Currently building APIs, automating secure infrastructure, and learning AI</br>
 <h>Fascinated by where human potential and artificial intelligence meet</br>
 <h>Grounded in growth, grit, and gratitude</br>
 
-2025 Goal: Contribute to open-source projects that make a difference  
+2026 Goal: Contribute to open-source projects that make a difference  
 Hobbies: Lifelong learning · Travel · Sleeping when I can!  
 
 ### 🌐 Connect with me:
