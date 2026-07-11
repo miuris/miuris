@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F73289&background=90909000&center=true&vCenter=true&width=435&lines=Hello+world+%F0%9F%99%8B%F0%9F%8F%BD%E2%80%8D%E2%99%80%EF%B8%8F+I'm+Miuris!)](https://git.io/typing-svg)
 
-I'm a software engineer and cybersecurity analyst devoted to building secure, impactful tech and staying endlessly curious while doing it.  
-This space evolves as I do. Thanks for stopping by! 
+Building secure identity solutions, automating access, and exploring the future of cloud security—one project at a time.
 
 ### About Me:
-**BSc in Cybersecurity**, AWS Cloud Practitioner</br>
-<h>Software Engineering Bootcamp</br>
+**BSc in Cybersecurity University of Maryland**, AWS Cloud Practitioner</br>
+<h>Software Engineering Per Scholas</br>
+<h>Cybersecurity Per Scholas</br>
 
 <h>Currently building APIs, automating secure infrastructure, and learning AI</br>
 <h>Fascinated by where human potential and artificial intelligence meet</br>
@@ -15,7 +15,7 @@ This space evolves as I do. Thanks for stopping by!
 Hobbies: Lifelong learning · Travel · Sleeping when I can!  
 
 ### 🌐 Connect with me:
-[LinkedIn](https://www.linkedin.com/in/miuris-gutierrez)
+[LinkedIn](https://www.linkedin.com/in/mi-g/)
 
 ### Tech Stack:
 **Languages**:  
