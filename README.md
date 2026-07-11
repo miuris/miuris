@@ -1,19 +1,24 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F73289&background=90909000&center=true&vCenter=true&width=435&lines=Hello+world+%F0%9F%99%8B%F0%9F%8F%BD%E2%80%8D%E2%99%80%EF%B8%8F+I'm+Miuris!)](https://git.io/typing-svg)
 
-Building secure identity solutions, automating access, and exploring the future of cloud security—one project at a time.
+Building secure identity solutions, automating access, and exploring the future of cloud security.
 
 ### About Me:
 **MSc in Cybersecurity and Information Assurance**</br>
-BSc in Cybersecurity University of Maryland | AWS Cloud Practitioner | Microsoft IAM Assoc </br>
+BSc in Cybersecurity University of Maryland</br>
+| AWS Cloud Practitioner | Microsoft IAM Assoc | CompTia Security+ | </br>
 <h>Software Engineering Per Scholas</br>
 <h>Cybersecurity Per Scholas</br>
 
-<h>Currently building APIs, automating secure infrastructure, and learning AI</br>
-<h>Fascinated by where human potential and artificial intelligence meet</br>
-<h>Grounded in growth, grit, and gratitude</br>
+Hi, I'm Miuris</br>
+
+I'm an Identity & Access Management professional passionate about building secure, scalable identity solutions across cloud and enterprise environments.</br>
+
+Here you'll find my hands-on projects in CyberArk, Microsoft Entra ID, HashiCorp Vault, AWS IAM, automation, and cloud security as I continue growing toward cloud security engineering and identity architecture.</br>
+
+Always learning. Always building. Always securing.</br>
 
 2026 Goal: Contribute to open-source projects that make a difference  
-Hobbies: Lifelong learning · Travel · Sleeping when I can!  
+Hobbies: Lifelong learning · Leisure Travel · Sleeping when I can!  
 
 ### 🌐 Connect with me:
 [LinkedIn](https://www.linkedin.com/in/mi-g/)
