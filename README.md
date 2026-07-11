@@ -4,7 +4,7 @@ Building secure identity solutions, automating access, and exploring the future 
 
 ### About Me:
 **MSc in Cybersecurity and Information Assurance**</br>
-**BSc in Cybersecurity University of Maryland** AWS Cloud Practitioner | Microsoft IAM Assoc </br>
+BSc in Cybersecurity University of Maryland | AWS Cloud Practitioner | Microsoft IAM Assoc </br>
 <h>Software Engineering Per Scholas</br>
 <h>Cybersecurity Per Scholas</br>
 
