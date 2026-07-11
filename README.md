@@ -5,9 +5,15 @@ Building secure identity solutions, automating access, and exploring the future 
 ### About Me:
 **MSc in Cybersecurity and Information Assurance**</br>
 BSc in Cybersecurity University of Maryland</br>
-| AWS Cloud Practitioner | Microsoft IAM Assoc | CompTia Security+ | </br>
+| AWS Cloud Practitioner | Microsoft SC-900 | Security+ | </br>
 <h>Software Engineering Per Scholas</br>
 <h>Cybersecurity Per Scholas</br>
+<p>
+  <img src="https://img.shields.io/badge/CompTIA-Security+-red?style=flat">
+  <img src="https://img.shields.io/badge/Microsoft-SC--900-0078D4?style=flat&logo=microsoft&logoColor=white">
+  <img src="https://img.shields.io/badge/SC--300-In%20Progress-0078D4?style=flat&logo=microsoft&logoColor=white">
+  <img src="https://img.shields.io/badge/Splunk-Core%20Certified%20User-65A637?style=flat&logo=splunk&logoColor=white">
+</p>
 
 Hi, I'm Miuris</br>
 
@@ -24,6 +30,33 @@ Hobbies: Lifelong learning · Leisure Travel · Sleeping when I can!
 [LinkedIn](https://www.linkedin.com/in/mi-g/)
 
 ### Tech Stack:
+
+**Identity & Security**
+![Microsoft Entra ID](https://img.shields.io/badge/Entra%20ID-0078D4?style=flat&logo=microsoft&logoColor=white)
+![CyberArk](https://img.shields.io/badge/CyberArk-00A3E0?style=flat)
+![HashiCorp Vault](https://img.shields.io/badge/Vault-000000?style=flat&logo=vault&logoColor=white)
+![AWS IAM](https://img.shields.io/badge/AWS%20IAM-FF9900?style=flat&logo=amazonaws&logoColor=white)
+
+**Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
+
+**Cloud & DevOps**
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+
+**Tools**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
+
+
+### Other Technologies:
 **Languages**:  
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white)  
 
@@ -44,7 +77,6 @@ Hobbies: Lifelong learning · Leisure Travel · Sleeping when I can!
 
 **Creative**:  
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white)  
-
 
 
 ### 📊 GitHub Stats:
