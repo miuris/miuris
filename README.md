@@ -19,7 +19,7 @@ Hi, I'm Miuris</br>
 
 As an Identity & Access Management professional, I'm devoted to building secure, scalable identity solutions across cloud and enterprise environments.</br>
 
-Here you'll find my hands-on projects in CyberArk, Microsoft Entra ID, HashiCorp Vault, AWS IAM, automation, and cloud security as I continue growing toward cloud security and identity architecture.</br>
+Here you'll find my hands-on projects in CyberArk, Microsoft Entra ID, HashiCorp Vault, AWS IAM, automation, and cloud security as I continue to grow toward cloud security and identity architecture.</br>
 
 Always learning. Always building. Always securing.</br>
 
